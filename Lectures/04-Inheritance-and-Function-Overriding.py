@@ -32,8 +32,8 @@ print(x)
 y = Employee('Robert', 26, 4000, 'IT')
 print(y)
 
-#   name: Jack
-#   age: 24
+#    name: Jack
+#    age: 24
 
 #    name: Robert
 #    age: 26
