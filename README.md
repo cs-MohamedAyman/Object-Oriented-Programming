@@ -97,7 +97,7 @@ Object oriented programming lectures for computer science students.
   - Random Module
   - Numeric Module
   - Ctime Module
-  - Standard Template Libraries
+  - C++ Templates
 </details>
 
 ### `Lecture 07` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
