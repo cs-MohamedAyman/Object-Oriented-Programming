@@ -1,11 +1,7 @@
-class Human:
+class BaseClass:
     pass
-
-class Employee(Human):
+class DerivedClass(BaseClass):
     pass
-
-x = Employee()
-y = Employee()
 
 
 class Human:
@@ -188,6 +184,44 @@ x = Employee('Mark', 10000)
 print(x.greeting())
 
 #    Hi my name is Mark
+
+
+class BaseClass:
+    pass
+class DerivedClass(BaseClass):
+    pass
+
+class BaseClass1:
+    pass
+class BaseClass2:
+    pass
+class MultiDerived(BaseClass1, BaseClass2): 
+    pass
+
+class BaseClass:
+    pass
+class ChildClass(BaseClass):
+    pass
+class GrandChild(ChildClass):
+    pass
+
+class BaseClass:
+    pass
+class DerivedClass1(BaseClass):
+    pass
+class DerivedClass2(BaseClass):
+    pass
+class DerivedClass3(BaseClass):
+    pass
+
+class BaseClass:
+    pass
+class DerivedClass1(BaseClass):
+    pass
+class DerivedClass2(BaseClass):
+    pass
+class MultiDerived(DerivedClass1, DerivedClass2): 
+    pass
 
 
 class Human:

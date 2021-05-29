@@ -1,17 +1,10 @@
 #include <iostream>
 using namespace std;
 
-class Human {
-
+class BaseClass {
 };
-
-class Employee : public Human {
-
+class DerivedClass : public BaseClass {
 };
-
-int main() {
-	Employee x, y;
-}
 
 
 class Human {
@@ -206,7 +199,6 @@ public:
 };
 class Employee : public Human {
 public:
-	string name;
 	int salary;
 public:
     Employee(string name, int salary) 
@@ -218,6 +210,44 @@ int main() {
 }
 
 //    Hi my name is Mark
+
+
+class BaseClass {
+};
+class DerivedClass : public BaseClass {
+};
+
+class BaseClass1 {
+};
+class BaseClass2 {
+};
+class MultiDerived : public BaseClass1, public BaseClass2 {
+};
+
+class BaseClass {
+};
+class ChildClass : public BaseClass {
+};
+class GrandChild : public ChildClass {
+};
+
+class BaseClass {
+};
+class DerivedClass1 : public BaseClass {
+};
+class DerivedClass2 : public BaseClass {
+};
+class DerivedClass3 : public BaseClass {
+};
+
+class BaseClass {
+};
+class DerivedClass1 : public BaseClass {
+};
+class DerivedClass2 : public BaseClass {
+};
+class MultiDerived : public DerivedClass1, public DerivedClass2 {
+};
 
 
 class Human {
@@ -323,7 +353,8 @@ class Leader : public Employee {
 public:
 	string reports[3];
 public:
-    Leader(string name, int age, int salary, string department, string reports[3]) 
+    Leader(string name, int age, int salary, 
+		   string department, string reports[3]) 
 		: Employee(name, age, salary, department) {
         for (int i = 0; i < 3; this->reports[i] = reports[i], i++);
     } 
