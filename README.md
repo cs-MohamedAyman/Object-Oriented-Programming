@@ -108,9 +108,6 @@ Object oriented programming lectures for computer science students.
   - Text files
   - CSV files
   - Json files
-  - XML files
-  - YAML files
-  - INI files
 </details>
 
 ### `Lecture 08` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
