@@ -21,6 +21,10 @@ int main() {
 	f.close();
 }
 
+//    Learning File Handling
+//    Learning File Handling
+//    Learning File Handling
+
 int main() {
 	fstream f;
 	f.open("new_file.txt", ios::app);
@@ -29,6 +33,24 @@ int main() {
 	f << "Learning File Handling\n";
 	f.close();
 }
+
+int main() {
+	fstream f;
+	f.open("new_file.txt", ios::in);
+	string str;
+	while (!f.eof()) {
+		getline (f, str);
+		cout << str << '\n';
+	}
+	f.close();
+}
+
+//    Learning File Handling
+//    Learning File Handling
+//    Learning File Handling
+//    Learning File Handling
+//    Learning File Handling
+//    Learning File Handling
 
 int main() {
 	int n = 5;
@@ -54,6 +76,9 @@ int main() {
 	}
 	f.close();
 }
+
+//    5
+//    1 -3 2 7 -4
 
 int main() {
 	int n = 2, m = 3;
@@ -85,3 +110,7 @@ int main() {
 	}
 	f.close();
 }
+
+//    2 3
+//    1 -3 5
+//    2 7 -4
