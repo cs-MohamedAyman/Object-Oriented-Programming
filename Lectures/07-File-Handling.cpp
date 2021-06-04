@@ -15,7 +15,7 @@ int main() {
 	f.open("new_file.txt", ios::in);
 	string str;
 	while (!f.eof()) {
-		getline (f, str);
+		getline(f, str);
 		cout << str << '\n';
 	}
 	f.close();
