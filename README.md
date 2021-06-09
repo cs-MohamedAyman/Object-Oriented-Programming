@@ -70,11 +70,12 @@ Object oriented programming lectures for computer science students.
 <details>
   <summary>Agenda</summary><br>
 
-  - Introduction to Abstraction
+  - Introduction to Polymorphism
   - Abstract Class
   - Abstract Method
   - Abstract Properties
-  - Polymorphism
+  - Data Abstraction
+  - UML Class Diagram
 </details>
 
 ### `Lecture 06` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
