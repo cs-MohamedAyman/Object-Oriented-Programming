@@ -71,9 +71,9 @@ Object oriented programming lectures for computer science students.
   <summary>Agenda</summary><br>
 
   - Introduction to Polymorphism
-  - Abstract Class
   - Abstract Method
-  - Abstract Properties
+  - Abstract Class
+  - Interface
   - Data Abstraction
   - UML Class Diagram
 </details>
