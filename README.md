@@ -5,7 +5,7 @@ Object oriented programming lectures for computer science students.
 <br>
 <br>
 
-## `Part 1` Object Oriented `25 hrs`
+## `Part 1` Object Oriented Programming `25 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
