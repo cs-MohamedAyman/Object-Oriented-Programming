@@ -5,7 +5,7 @@ Object oriented programming lectures for computer science students.
 <br>
 <br>
 
-## `Part 1` Object Oriented Programming `25 hrs`
+## `Part 1` Object Oriented Programming
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -62,7 +62,7 @@ Object oriented programming lectures for computer science students.
 <br>
 <br>
 
-## `Part 2` Files and Standard Libraries `25 hrs`
+## `Part 2` Files and Standard Libraries
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -80,7 +80,7 @@ Object oriented programming lectures for computer science students.
 
 ### `Lecture 06` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Python Agenda</summary><br>
 
   - Modules in Python
   - Counter Module
@@ -91,7 +91,7 @@ Object oriented programming lectures for computer science students.
 </details>
 
 <details>
-  <summary>Agenda</summary><br>
+  <summary>C++ Agenda</summary><br>
 
   - Modules in C++
   - Cmath Module
@@ -127,7 +127,7 @@ Object oriented programming lectures for computer science students.
 <br>
 <br>
 
-## `Assignments` `5 hrs`/`Assignment`
+## `Assignments` `10 hrs`/`Assignment`
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
